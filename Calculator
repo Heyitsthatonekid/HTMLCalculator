@@ -25,7 +25,7 @@
 <br>
 <input type="button" name="clear" value="  C  " onclick="Calc.Input.value = ''">
 <input type="button" name="zero" value="  0  " onclick="Calc.Input.value += '0'">
-<input type="button" name="DoIt" value="  =  " onclick="Calc.Input.value = eval(Calc.Input.value)">
+<input type="button" name="equals" value="  =  " onclick="Calc.Input.value = eval(Calc.Input.value)">
 <input type="button" name="div" value="  ÷   " onclick="Calc.Input.value += ' / '">
 <br>
 </td>

@@ -1,8 +1,8 @@
 <html><head></head><body><form name="Calc">
-<table border="4">
+<table border="7">
 <tbody><tr>
 <td>
-<input type="text" name="Input" size="16">
+<input type="text" name="Input" size="20">
 <br>
 </td>
 </tr>
